@@ -1,0 +1,16 @@
+Bootstrap documentation on:
+- grid system: http://getbootstrap.com/css/#grid
+- typography: http://getbootstrap.com/css/#type
+
+Udacitiy style guides: 
+- html: http://udacity.github.io/frontend-nanodegree-styleguide/index.html
+- css: http://udacity.github.io/frontend-nanodegree-styleguide/css.html
+
+HTML Validator: 
+http://validator.w3.org/#validate_by_input
+
+CSS Validator: 
+http://jigsaw.w3.org/css-validator/#validate_by_input
+
+CSS Shorthand Properties:
+https://developer.mozilla.org/enUS/docs/Web/CSS/Shorthand_properties
